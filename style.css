@@ -1,0 +1,93 @@
+*{margin: 0; padding:0;box-sizing: border-box;}
+.my-style{
+    width: 120px;
+}
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.font{
+    font-size: 18px;
+    margin-left: 550px;
+    padding: 20px;
+}
+.carousel-item{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 40px;
+}
+.head{
+    font-weight: bold;
+}
+button.buy-now{
+ background-image: linear-gradient(rgb(142, 142, 255)92, 92, 236) 0%, rgb(151, 151, 247) 100%;
+ border-radius: 10px;
+ padding: 5px 20px;
+ -webkit-border-radius: 10px;
+ -moz-border-radius: 10px;
+ -ms-border-radius: 10px;
+ -o-border-radius: 10px;
+}
+.buy-now:hover{
+    background-image: linear-gradient(rgb(142, 142, 255)92, 92, 236) 0%, rgb(151, 151, 247) 100%;
+
+}
+.bg-color{
+    margin-top: 50px;
+    border-radius: 10px;
+    background-color: rgb(230, 238, 247);
+    border: 2px solid rgb(211, 227, 245);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.cat-1,.cat-2,.cat-3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    display: flex;
+    padding: 20px 40px;
+    border-radius: 19px;
+    cursor: pointer;
+    -webkit-border-radius: 19px;
+    -moz-border-radius: 19px;
+    -ms-border-radius: 19px;
+    -o-border-radius: 19px;
+}
+.cat-1{
+    background-image: linear-gradient(rgb(255, 167, 4),rgb(252, 185, 60));
+}
+.cat-2{
+    background-image: linear-gradient(rgb(73, 73, 250),rgb(171, 171, 253));
+}
+.cat-3{
+    background-image: linear-gradient(palevioletred,rgb(235, 141, 172)) ;
+    width: 350px;
+    height: 120px;
+}
+.img-size{
+    width: 70px;
+    display: flex;
+    align-items: flex-end;
+    margin-left: 100px;
+}
+.btn-outline-primary{
+    width: 120px;
+    padding: 5px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.card{
+    border: none;
+    box-shadow: 4px 4px 9px gray;
+}
+#subscribe{
+    height: 300px;
+    background-color: rgb(248, 225, 225);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
